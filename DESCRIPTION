@@ -1,0 +1,8 @@
+Package: kirby21.scan.2
+Type: Package
+Title: Install the Kirby21 datasets from 21 different 
+Version: 1.0
+Date: 2015-04-08
+Author: John Muschelli
+Maintainer: John Muschelli <muschellij2@gmail.com>
+Description: Installs Data into R directory
